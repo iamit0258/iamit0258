@@ -10,7 +10,7 @@ A final-year **Electronics and Computer Engineering** student with a deep passio
 - 🤝 **Seeking help with:** Optimizing LLM workflows, system scalability, and production deployment.
 - 🌱 **Learning:** Advanced Generative AI, backend system design, and AI-powered voice technologies.
 - 💬 **Ask me about:** Python, AI/ML, NLP, LLMs, REST APIs, and full-stack development.
-- 👨‍💻 **Portfolio:** [amitkk.in](https://www.amitkk.in)
+- 🚀 **Explore all my projects here (Portfolio):** [amitkk.in](https://www.amitkk.in) 
 - ⚡ **Fun fact:** Beyond the terminal, I find creativity in **photography**, **sketching**, and writing **poems/shayari**.
 
 ---
@@ -87,6 +87,7 @@ A final-year **Electronics and Computer Engineering** student with a deep passio
   <img src="https://github-readme-stats.vercel.app/api?username=iamit0258&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Amit's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=iamit0258&theme=dark&hide_border=false" alt="Amit's Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamit0258&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Amit's Top Languages" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamit0258&theme=react-dark" alt="Amit's Activity Graph" />
 </div>
 
 ---
