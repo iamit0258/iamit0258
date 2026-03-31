@@ -81,17 +81,6 @@ A final-year **Electronics and Computer Engineering** student with a deep passio
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamit0258&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Amit's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=iamit0258&theme=dark&hide_border=false" alt="Amit's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamit0258&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Amit's Top Languages" >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamit0258&theme=react-dark" alt="Amit's Activity Graph" />
-</div>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamit105) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkk.contact@gmail.com)
