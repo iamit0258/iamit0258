@@ -1,27 +1,25 @@
-# Hi there, I'm Amit Kumar Kuswaha 👋
+# Hi there, I'm Amit Kumar Kuswaha 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iamit0258&label=Profile%20views&color=0e75b6&style=flat" alt="iamit0258" />
 </p>
 
-A final-year **Electronics and Computer Engineering** student with a deep passion for **Generative AI** and **Full-Stack Development**. I specialize in building **LLM-powered assistants** and scalable web platforms that bridge the gap between AI research and real-world applications.
+Final-year Electronics and Computer Engineering student passionate about AI and full-stack development, with hands-on experience building LLM-powered assistants and scalable web platforms that transform advanced technology into practical, real-world solutions.
 
-- 👯 **Collaborating on:** Generative AI, LLM-based systems, and full-stack AI applications.
-- 🤝 **Seeking help with:** Optimizing LLM workflows, system scalability, and production deployment.
-- 🌱 **Learning:** Advanced Generative AI, backend system design, and AI-powered voice technologies.
-- 💬 **Ask me about:** Python, AI/ML, NLP, LLMs, REST APIs, and full-stack development.
-- 🚀 **Explore all my projects here (Portfolio):** [amitkk.in](https://www.amitkk.in) 
-- ⚡ **Fun fact:** Beyond the terminal, I find creativity in **photography**, **sketching**, and writing **poems/shayari**.
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkk.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamit105) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.amitkk.in)
 
 ---
 ### 🚀 Featured Projects
 
-| 🚀 **Project Name** | 🔗 **Preview** |
+|  **Project Name** | 🔗 **Preview** |
 |---------------------|------------------|
 | **Project A** | [projecta.amitkk.in](https://projectachatbot.vercel.app) |
 | **GUDPALS** | [gudpals.amitkk.in](https://gudpalscare.vercel.app) |
 | **Grey Note** | [greynote.vercel.app](https://greynote.vercel.app) |
-
+| **Portfolio** | [amitkk.in](https://amitkk.in) |
 ---
 
 ### 💻 Tech Stack
@@ -88,14 +86,6 @@ A final-year **Electronics and Computer Engineering** student with a deep passio
 ![Computer Networks](https://img.shields.io/badge/Networks-critical?style=flat-square&logo=cisco&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-important?style=flat-square&logo=java&logoColor=white)
 
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamit105) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkk.contact@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.amitkk.in)
-
----
 
 <div align="center">
   <i>"Code is poetry, and every bug is a rhyme waiting to be fixed."</i>
