@@ -20,6 +20,7 @@ Final-year Electronics and Computer Engineering student passionate about AI and 
 | **GUDPALS** | [gudpals.amitkk.in](https://gudpalscare.vercel.app) |
 | **Grey Note** | [greynote.vercel.app](https://greynote.vercel.app) |
 | **Portfolio** | [amitkk.in](https://amitkk.in) |
+| **Number System Conversion** | [Link](https://iamit0258.github.io/Number-System-Conversion/) |
 ---
 
 ### 💻 Tech Stack
