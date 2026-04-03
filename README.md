@@ -14,6 +14,15 @@ A final-year **Electronics and Computer Engineering** student with a deep passio
 - ⚡ **Fun fact:** Beyond the terminal, I find creativity in **photography**, **sketching**, and writing **poems/shayari**.
 
 ---
+### 🚀 Featured Projects
+
+| 🚀 **Project Name** | 🔗 **Preview** |
+|---------------------|------------------|
+| **Project A** | [projecta.amitkk.in](https://projectachatbot.vercel.app) |
+| **GUDPALS** | [gudpals.amitkk.in](https://gudpalscare.vercel.app) |
+| **Grey Note** | [greynote.vercel.app](https://greynote.vercel.app) |
+
+---
 
 ### 💻 Tech Stack
 
