@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamit0258&label=Profile%20views&color=0e75b6&style=flat" alt="iamit0258" />
 </p>
 
-Final-year Electronics and Computer Engineering student passionate about AI and full-stack development, with hands-on experience building LLM-powered assistants and scalable web platforms that transform advanced technology into practical, real-world solutions.
+B.Tech graduate in Electronics and Computer Engineering student passionate about AI and full-stack development, with hands-on experience building LLM-powered assistants and scalable web platforms that transform advanced technology into practical, real-world solutions.
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkk.contact@gmail.com)
