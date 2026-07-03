@@ -17,6 +17,7 @@ B.Tech graduate in Electronics and Computer Engineering student passionate about
 |  **Project Name** | 🔗 **Preview** |
 |---------------------|------------------|
 | **Project A** | [projecta.amitkk.in](https://projectachatbot.vercel.app) |
+| **Truth Layer** | [truthlayer.streamlit.app](https://truthlayer.streamlit.app) |
 | **GUDPALS** | [gudpals.amitkk.in](https://gudpalscare.vercel.app) |
 | **Grey Note** | [greynote.vercel.app](https://greynote.vercel.app) |
 | **Portfolio** | [amitkk.in](https://amitkk.in) |
@@ -30,22 +31,17 @@ B.Tech graduate in Electronics and Computer Engineering student passionate about
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 #### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 #### 🤖 Artificial Intelligence & Machine Learning
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-blue?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-green?style=for-the-badge&logo=meta&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-red?style=for-the-badge&logo=natural-language-toolkit&logoColor=white)
@@ -58,7 +54,6 @@ B.Tech graduate in Electronics and Computer Engineering student passionate about
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=Hostinger&logoColor=white)
