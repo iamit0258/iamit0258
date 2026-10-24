@@ -1,27 +1,25 @@
-# Hi there, I'm Amit Kumar Kuswaha 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamit0258&label=Profile%20views&color=0e75b6&style=flat" alt="iamit0258" />
+<p align="center">
+   <a href="https://github.com/iamit0258">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Electronics+%26+Computer+Engineering;Full-Stack+Developer+%26+AI+Engineer;LLM+RAG+Architectures+%26+Scalable+Web+Platforms" alt="Typing SVG" />
 </p>
-
-B.Tech graduate in Electronics and Computer Engineering student passionate about AI and full-stack development, with hands-on experience building LLM-powered assistants and scalable web platforms that transform advanced technology into practical, real-world solutions.
-
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkk.contact@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamit105) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.amitkk.in)
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=iamit0258&label=Profile%20views&color=0e75b6&style=flat" alt="iamit0258" />
+    <a href="https://linkedin.com/in/iamit105"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.amitkk.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  </p>
 
 ---
 ### 🚀 Featured Projects
 
-|  **Project Name** | 🔗 **Preview** |
-|---------------------|------------------|
-| **Project A** | [projecta.amitkk.in](https://projectachatbot.vercel.app) |
-| **Truth Layer** | [truthlayer.streamlit.app](https://truthlayer.streamlit.app) |
-| **GUDPALS** | [gudpals.amitkk.in](https://gudpalscare.vercel.app) |
-| **Grey Note** | [greynote.vercel.app](https://greynote.vercel.app) |
-| **Portfolio** | [amitkk.in](https://amitkk.in) |
-| **Number System Conversion** | [Link](https://iamit0258.github.io/Number-System-Conversion/) |
+| Project                            | Description                                                                                          | Live Demo                                                        |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- |
+| **GUDPALS**                  | Accessibility-first senior citizen platform with wellness tracking, travel planning & real-time chat | [gudpals.amitkk.in](https://gudpals.amitkk.in)                    |
+| **Truth Layer**              | Real-time AI claim verification & PDF audit platform powered by live Tavily RAG searches             | [truthlayer.streamlit.app](https://truthlayer.streamlit.app)      |
+| **Project A**                | Multimodal conversational voice assistant with real-time audio streaming & relational memory         | [projecta.amitkk.in](https://projecta.amitkk.in)                  |
+| **ScribePad**                | Cloud-synced note engine with direct Google Drive sync, multi-tab sections & 90-day Recycle Bin      | [scribepad.vercel.app](https://scribepad.vercel.app)              |
+| **Grey Note**                | Zero-friction, typography-driven anonymous messaging platform with zero telemetry logging            | [greynote.vercel.app](https://greynote.vercel.app)                |
+| **Portfolio**                | Interactive 3D digital bookshelf portfolio showcasing live system architecture pipelines             | [amitkk.in](https://amitkk.in)                                    |
+| **Number System Conversion** | Interactive developer utility for instant cross-base conversions across Binary, Dec, Oct & Hex       | [Open App](https://iamit0258.github.io/Number-System-Conversion/) |
 ---
 
 ### 💻 Tech Stack
@@ -38,6 +36,8 @@ B.Tech graduate in Electronics and Computer Engineering student passionate about
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 
 #### 🤖 Artificial Intelligence & Machine Learning
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-blue?style=for-the-badge&logo=openai&logoColor=white)
